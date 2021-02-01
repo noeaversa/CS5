@@ -23,6 +23,7 @@ int main(int argc, char *argv[])
     {
         fprintf(stderr, "Only one filter allowed.\n");
         return 2;
+        
     }
 
     // Ensure proper usage
