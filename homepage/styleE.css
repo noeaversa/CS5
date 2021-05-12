@@ -1,0 +1,53 @@
+.buttons{
+    background-color: pink;
+    Height: 1cm;
+}
+
+.button{
+    color: black;
+    background-color: pink;
+    border:none;
+    margin-left: 10%;
+    font-family: DialogInput;
+    height: 2cm;
+    width: 7cm;
+    text-align: center;
+    text-decoration:none;
+}
+
+.button:hover{
+    background-color: black;
+    color: pink;
+    text-decoration:none;
+    width: 7cm;
+}
+
+table{
+    width:90%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+table,th,td{
+    font-weight: 400;
+    border: solid black;
+     font-family: DialogInput;
+    text-align: center;
+    font-size: 18px;
+}
+
+.top{
+    background-color: pink;
+    color: black;
+}
+
+.top:hover{
+    background-color: black;
+    color: pink;
+}
+
+p{
+    font-family: DialogInput;
+    text-align: center;
+    font-size: 30px;
+}
