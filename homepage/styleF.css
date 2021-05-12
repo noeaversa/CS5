@@ -1,0 +1,32 @@
+.buttons{
+    background-color: pink;
+    Height: 1cm;
+}
+
+.button{
+    color: black;
+    background-color: pink;
+    border:none;
+    margin-left: 10%;
+    font-family: DialogInput;
+    height: 2cm;
+    width: 7cm;
+    text-align: center;
+    text-decoration:none;
+}
+
+.button:hover{
+    background-color: black;
+    color: pink;
+    text-decoration:none;
+    width: 7cm;
+}
+
+ul{
+    font-family:DialogInput;
+    font-size: 16px;
+}
+
+h1{
+    font-family:DialogInput;
+}
