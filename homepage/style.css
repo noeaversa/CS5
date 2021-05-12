@@ -1,0 +1,37 @@
+#MyIMG{
+    margin: auto;
+    display:block;
+    width: 5cm;
+    height: 7cm;
+
+}
+
+.principal{
+    text-align: center;
+     color: black;
+     font-family: DialogInput;
+}
+
+.buttons{
+    background-color: pink;
+    Height: 1cm;
+}
+
+.button{
+    color: black;
+    background-color: pink;
+    border:none;
+    margin-left: 10%;
+    font-family: DialogInput;
+    height: 2cm;
+    width: 7cm;
+    text-align: center;
+    text-decoration:none;
+}
+
+.button:hover{
+    background-color: black;
+    color: pink;
+    text-decoration:none;
+    width: 7cm;
+}
